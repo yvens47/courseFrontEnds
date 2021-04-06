@@ -1,0 +1,21 @@
+.wrapper-login {
+  background: #e5e0e6;
+}
+
+.login-wrapper {
+  background: white;
+  position: relative;
+}
+.login-wrapper h1 {
+  color: #5d5d5d;
+  text-align: center;
+}
+.register {
+  position: absolute;
+  width: 100%;
+
+  left: 0;
+  bottom: 0;
+  color: rgb(240, 235, 235);
+  font-weight: bold;
+}
